@@ -1,0 +1,6 @@
+C:\Users\Ali\source\repos\SMAPI\SMAPI\bin\Debug\SMAPI.dll
+C:\Users\Ali\source\repos\SMAPI\SMAPI\bin\Debug\SMAPI.pdb
+C:\Users\Ali\source\repos\SMAPI\SMAPI\obj\Debug\SMAPI.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SMAPI\SMAPI\obj\Debug\SMAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SMAPI\SMAPI\obj\Debug\SMAPI.dll
+C:\Users\Ali\source\repos\SMAPI\SMAPI\obj\Debug\SMAPI.pdb
